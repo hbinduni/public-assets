@@ -1,0 +1,25 @@
+{
+  "name": "Economist Loyalty Points",
+  "symbol": "ELP",
+  "description": "Development proof of concept for referral and loyalty rewards. Solana Devnet test points only; no monetary value and not an official Economist product.",
+  "image": "https://raw.githubusercontent.com/hbinduni/public-assets/main/economist-loyalty/icon.png",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Loyalty proof of concept"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/hbinduni/public-assets/main/economist-loyalty/icon.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
